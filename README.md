@@ -1,11 +1,18 @@
 # Veiculo-BLE
 Veículo controlado comandos de celular enviado via BLE (Bluetooth Low Energy), o controlador é compatível com Android/IOS desenvolvido no App Inventor. O veículo é equipado com um esp32 que já vêm com BLE integrado e um driver responsável por acionar os motores DC. 
 
-* [Video Demonstrativo](https://youtube.com/shorts/sn5v5UQEMDI?feature=share)
-
 <div align=center>
 <img src=recursos/prototipo.jpg width=40%>
+
+[Video Demonstrativo](https://youtube.com/shorts/sn5v5UQEMDI?feature=share)
 </div>
+
+Foram utilizados:
+- Chassi em acrílico, 
+- 2x Motores DC 6V
+- Driver L298
+- esp32
+- bateria 9V
 
 ## Como usar
 
