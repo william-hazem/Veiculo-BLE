@@ -1,3 +1,8 @@
+bin
+build
+*.old
+.vscode
+
 # Prerequisites
 *.d
 
